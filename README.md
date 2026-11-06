@@ -2,6 +2,9 @@
 
 # 🕸️ Bright Studio GraphRAG
 
+<img width="1500" height="866" alt="Screenshot 2026-11-06 123605" src="https://github.com/user-attachments/assets/9a2dba54-d9de-47b8-8545-2acc349b47d3" />
+
+
 ### Ask your agency's documents anything. Answers come from a **knowledge graph**, not a vector database.
 
 100% local · No embeddings · No vector DB · No cloud API · Every answer cites its sources
