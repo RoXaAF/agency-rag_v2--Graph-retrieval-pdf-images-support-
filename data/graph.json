@@ -1,0 +1,4407 @@
+{
+ "directed": true,
+ "multigraph": true,
+ "graph": {},
+ "nodes": [
+  {
+   "aliases": [],
+   "mentions": 116,
+   "id": "bright studio"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "14 in q1 2025"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "26 in q4 2025"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "86%"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "$1.42 million in 2025"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "$1.03 million in 2024"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "38%"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "9 on starter package"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "11 on growth package"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "6 on premier package"
+  },
+  {
+   "aliases": [],
+   "mentions": 24,
+   "id": "growth package"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "true"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "91%"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "average client"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "14 months"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "91% client renewal rate"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "14 month average client stay"
+  },
+  {
+   "aliases": [],
+   "mentions": 12,
+   "id": "aisha rahman"
+  },
+  {
+   "aliases": [],
+   "mentions": 4,
+   "id": "account manager"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "6 people"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "video specialist"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "second office in dallas"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "4.7 out of 5 satisfaction score"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "78% survey response rate"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "78% response rate"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "active clients per quarter, 2025"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "q1 2025"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "14"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "q2 2025"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "17"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "q3 2025"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "21"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "q4 2025"
+  },
+  {
+   "aliases": [],
+   "mentions": 4,
+   "id": "26"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "clients by package, end of 2025"
+  },
+  {
+   "aliases": [],
+   "mentions": 20,
+   "id": "premier package"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "6"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "11"
+  },
+  {
+   "aliases": [],
+   "mentions": 9,
+   "id": "starter package"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "9"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "total clients"
+  },
+  {
+   "aliases": [],
+   "mentions": 7,
+   "id": "maple & oak bakery"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "austin"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "8 months"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "instagram and facebook content"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "local seo"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "brand refresh"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "62% increase in online orders"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "instagram followers grew from 1,200 to 5,400"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "instagram followers grew from 1,200 to 5,400 in 8 months"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "bakery google maps ranking moved from 14 to 3"
+  },
+  {
+   "aliases": [],
+   "mentions": 6,
+   "id": "peakfit gym"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "round rock"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "12 months"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "full rebrand"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "8-page website"
+  },
+  {
+   "aliases": [],
+   "mentions": 5,
+   "id": "full seo"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "social media on three platforms"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "membership sign-ups rose by 41% in 6 months"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "website traffic grew by 180%"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "membership sign-ups"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "41% increase in 6 months"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "website traffic"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "180% growth"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "new website"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "1.8 seconds"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "old website"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "6.2 seconds"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "gym"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "full capacity at second location in 4 months"
+  },
+  {
+   "aliases": [],
+   "mentions": 7,
+   "id": "ledgerleaf"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "accounting software startup"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "qualified sign-ups for free trial"
+  },
+  {
+   "aliases": [],
+   "mentions": 6,
+   "id": "standalone seo service"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "10 months"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "month-to-month"
+  },
+  {
+   "aliases": [],
+   "mentions": 3,
+   "id": "keyword research"
+  },
+  {
+   "aliases": [
+    "technical audits"
+   ],
+   "mentions": 3,
+   "id": "technical audit"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "20 blog articles"
+  },
+  {
+   "aliases": [],
+   "mentions": 3,
+   "id": "seo service"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "backlink outreach"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "240% organic traffic growth"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "free-trial sign-ups increased from 35 to 118 per month"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "three target keywords reached first page of google"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "+62% online orders"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "+41% memberships"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "+240% organic traffic"
+  },
+  {
+   "aliases": [],
+   "mentions": 3,
+   "id": "onboarding"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "4 steps"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "step 1"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "30-minute discovery call"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "step 2"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "proposal within 3 business days"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "step 3"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "contract signature"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "first invoice payment"
+  },
+  {
+   "aliases": [],
+   "mentions": 4,
+   "id": "step 4"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "kickoff meeting"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "brand assets"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "logins"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "5 business days of signing"
+  },
+  {
+   "aliases": [
+    "social media engagement"
+   ],
+   "mentions": 16,
+   "id": "social media management"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "4 to 8 weeks"
+  },
+  {
+   "aliases": [],
+   "mentions": 8,
+   "id": "seo"
+  },
+  {
+   "aliases": [],
+   "mentions": 3,
+   "id": "3 to 6 months"
+  },
+  {
+   "aliases": [],
+   "mentions": 3,
+   "id": "6 to 8 weeks"
+  },
+  {
+   "aliases": [
+    "branding project"
+   ],
+   "mentions": 6,
+   "id": "branding projects"
+  },
+  {
+   "aliases": [],
+   "mentions": 3,
+   "id": "4 to 6 weeks"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "3 months"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "6 months"
+  },
+  {
+   "aliases": [],
+   "mentions": 4,
+   "id": "branding"
+  },
+  {
+   "aliases": [],
+   "mentions": 3,
+   "id": "no ongoing contract"
+  },
+  {
+   "aliases": [
+    "web designer"
+   ],
+   "mentions": 11,
+   "id": "web design"
+  },
+  {
+   "aliases": [],
+   "mentions": 7,
+   "id": "growth audit"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "30 days written notice"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "emailing aisha@brightstudio.example"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "cancellation before minimum term"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "payment of remaining months at 50% of monthly fee"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "month-to-month services"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "14 days notice"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "client"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "logos, designs, website files, and written content"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "client ownership"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "final invoice paid"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "right to show the work"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "show work in portfolio"
+  },
+  {
+   "aliases": [
+    "paused package"
+   ],
+   "mentions": 5,
+   "id": "pause package"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "completed minimum term"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "once per year for up to 2 months"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "$0"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "social media posting and seo work"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "clients outside texas"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "remote work"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "meetings"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "video call and in-person"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "texas"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "in-person meetings in austin"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "paid advertising"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "referrals to partner agencies"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "monday to friday, 9:00 am to 5:30 pm central time"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "one business day"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "specified timeframe"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "monthly package"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "revision rounds"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "refund"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "30 days"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "three monthly packages"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "$750 per month"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "social media management on one platform"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "12 posts per month"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "monthly analytics summary"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "3 months minimum contract"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "$1,800 per month"
+  },
+  {
+   "aliases": [],
+   "mentions": 3,
+   "id": "instagram"
+  },
+  {
+   "aliases": [],
+   "mentions": 3,
+   "id": "facebook"
+  },
+  {
+   "aliases": [],
+   "mentions": 3,
+   "id": "linkedin"
+  },
+  {
+   "aliases": [],
+   "mentions": 3,
+   "id": "basic seo"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "keyword research for up to 15 keywords"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "on-page optimization of up to 8 pages"
+  },
+  {
+   "aliases": [],
+   "mentions": 3,
+   "id": "one-time brand refresh"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "updated logo files"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "color palette"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "$3,500 per month"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "6 months minimum contract"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "30 keywords"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "15 pages"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "5 backlinks per month"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "complete branding project"
+  },
+  {
+   "aliases": [],
+   "mentions": 3,
+   "id": "one new website"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "up to 10 pages"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "first three months"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "dedicated monthly strategy call"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "12 months minimum contract"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "monthly marketing package"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "one-time service"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "$950, one-time"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "written review of current marketing"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "10 business days"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "subscription"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "$1,200 per month"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "month-to-month contract"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "standalone social media management"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "$950 per month"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "all three platforms"
+  },
+  {
+   "aliases": [],
+   "mentions": 3,
+   "id": "standalone branding project"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "$4,200, one-time"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "three platforms"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "$4,200 one-time fee"
+  },
+  {
+   "aliases": [],
+   "mentions": 5,
+   "id": "standalone web design project"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "$5,500 one-time fee"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "50% upfront payment"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "50% payment on launch"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "extra social media posts"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "$40 per post"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "nonprofit organizations"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "15% discount on monthly package"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "annual payment"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "10% discount"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "bank transfer (ach)"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "credit card"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "credit card payments"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "3% processing fee"
+  },
+  {
+   "aliases": [],
+   "mentions": 3,
+   "id": "invoices"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "1st of each month"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "14 days"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "austin, texas"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "2018"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "creative marketing agency"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "6 team members"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "local businesses"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "startups"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "4 core services"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "technical site audit"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "keyword research for up to 30 target keywords"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "on-page optimization of up to 15 pages"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "monthly backlink outreach (5 new quality links per month)"
+  },
+  {
+   "aliases": [],
+   "mentions": 5,
+   "id": "seo package"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "page optimization of up to 15 pages"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "monthly backlink outreach"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "5 new quality links per month"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "monthly ranking report"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "seo results"
+  },
+  {
+   "aliases": [],
+   "mentions": 7,
+   "id": "priya nair"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "seo lead"
+  },
+  {
+   "aliases": [],
+   "mentions": 7,
+   "id": "branding service"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "complete visual identity"
+  },
+  {
+   "aliases": [],
+   "mentions": 3,
+   "id": "logo design"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "three initial concepts"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "two rounds of revisions"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "typography selection"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "brand voice guide"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "20-page brand guidelines pdf"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "standard branding project"
+  },
+  {
+   "aliases": [],
+   "mentions": 11,
+   "id": "marcus webb"
+  },
+  {
+   "aliases": [],
+   "mentions": 4,
+   "id": "brand strategist"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "monthly content calendar"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "12 designed posts per month"
+  },
+  {
+   "aliases": [],
+   "mentions": 5,
+   "id": "community management"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "replying to comments and messages within one business day"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "tiktok"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "x (twitter)"
+  },
+  {
+   "aliases": [],
+   "mentions": 10,
+   "id": "elena rossi"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "social media manager"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "responsive websites of up to 10 pages"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "wordpress or webflow"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "wireframes"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "two design revisions"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "mobile optimization"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "basic on-page seo setup"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "30 days of free support after launch"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "on-page seo setup"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "30 days of free support"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "website"
+  },
+  {
+   "aliases": [],
+   "mentions": 14,
+   "id": "daniel okafor"
+  },
+  {
+   "aliases": [],
+   "mentions": 3,
+   "id": "lead web designer"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "paid advertising management"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "video production"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "public relations"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "legal services"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "accounting services"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "e-commerce stores"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "trusted partner companies"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "hello@brightstudio.example"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "(512) 555-0147"
+  },
+  {
+   "aliases": [],
+   "mentions": 12,
+   "id": "sarah chen"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "founder"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "creative director"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "advertising firm in chicago"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "overall strategy"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "major creative work"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "monthly strategy calls"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "brand strategy"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "client relationships"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "logos"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "brand guidelines"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "brand voice"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "10 years"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "monthly seo ranking reports"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "technical seo"
+  },
+  {
+   "aliases": [],
+   "mentions": 4,
+   "id": "priya"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "seo specialist"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "local search"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "e-commerce company"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "journalism"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "content calendars"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "short-form video captions"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "client websites"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "wordpress"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "webflow"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "responsive design"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "website speed optimization"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "first point of contact"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "contracts"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "day-to-day questions"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "new client or general question"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "social media"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "strategy or escalations"
+  },
+  {
+   "aliases": [],
+   "mentions": 2,
+   "id": "visual design"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "brand identity"
+  },
+  {
+   "aliases": [],
+   "mentions": 1,
+   "id": "websites only"
+  }
+ ],
+ "edges": [
+  {
+   "relation": "had_clients",
+   "chunk_id": "annual_report_2025.pdf#p1#1",
+   "source": "annual_report_2025.pdf",
+   "from": "bright studio",
+   "to": "14 in q1 2025",
+   "key": 0
+  },
+  {
+   "relation": "had_clients",
+   "chunk_id": "annual_report_2025.pdf#p1#1",
+   "source": "annual_report_2025.pdf",
+   "from": "bright studio",
+   "to": "26 in q4 2025",
+   "key": 0
+  },
+  {
+   "relation": "achieved_increase",
+   "chunk_id": "annual_report_2025.pdf#p1#1",
+   "source": "annual_report_2025.pdf",
+   "from": "bright studio",
+   "to": "86%",
+   "key": 0
+  },
+  {
+   "relation": "had_revenue",
+   "chunk_id": "annual_report_2025.pdf#p1#1",
+   "source": "annual_report_2025.pdf",
+   "from": "bright studio",
+   "to": "$1.42 million in 2025",
+   "key": 0
+  },
+  {
+   "relation": "had_revenue",
+   "chunk_id": "annual_report_2025.pdf#p1#1",
+   "source": "annual_report_2025.pdf",
+   "from": "bright studio",
+   "to": "$1.03 million in 2024",
+   "key": 0
+  },
+  {
+   "relation": "had_revenue_increase",
+   "chunk_id": "annual_report_2025.pdf#p1#1",
+   "source": "annual_report_2025.pdf",
+   "from": "bright studio",
+   "to": "38%",
+   "key": 0
+  },
+  {
+   "relation": "has_clients",
+   "chunk_id": "annual_report_2025.pdf#p1#1",
+   "source": "annual_report_2025.pdf",
+   "from": "bright studio",
+   "to": "9 on starter package",
+   "key": 0
+  },
+  {
+   "relation": "has_clients",
+   "chunk_id": "annual_report_2025.pdf#p1#1",
+   "source": "annual_report_2025.pdf",
+   "from": "bright studio",
+   "to": "11 on growth package",
+   "key": 0
+  },
+  {
+   "relation": "has_clients",
+   "chunk_id": "annual_report_2025.pdf#p1#1",
+   "source": "annual_report_2025.pdf",
+   "from": "bright studio",
+   "to": "6 on premier package",
+   "key": 0
+  },
+  {
+   "relation": "achieved_retention",
+   "chunk_id": "annual_report_2025.pdf#p1#1",
+   "source": "annual_report_2025.pdf",
+   "from": "bright studio",
+   "to": "91%",
+   "key": 0
+  },
+  {
+   "relation": "achieved",
+   "chunk_id": "annual_report_2025.pdf#p1#2",
+   "source": "annual_report_2025.pdf",
+   "from": "bright studio",
+   "to": "91% client renewal rate",
+   "key": 0
+  },
+  {
+   "relation": "achieved",
+   "chunk_id": "annual_report_2025.pdf#p1#2",
+   "source": "annual_report_2025.pdf",
+   "from": "bright studio",
+   "to": "14 month average client stay",
+   "key": 0
+  },
+  {
+   "relation": "hired",
+   "chunk_id": "annual_report_2025.pdf#p1#2",
+   "source": "annual_report_2025.pdf",
+   "from": "bright studio",
+   "to": "aisha rahman",
+   "key": 0
+  },
+  {
+   "relation": "has_team_size",
+   "chunk_id": "annual_report_2025.pdf#p1#2",
+   "source": "annual_report_2025.pdf",
+   "from": "bright studio",
+   "to": "6 people",
+   "key": 0
+  },
+  {
+   "relation": "plans_to_hire",
+   "chunk_id": "annual_report_2025.pdf#p1#2",
+   "source": "annual_report_2025.pdf",
+   "from": "bright studio",
+   "to": "video specialist",
+   "key": 0
+  },
+  {
+   "relation": "plans_to_open",
+   "chunk_id": "annual_report_2025.pdf#p1#2",
+   "source": "annual_report_2025.pdf",
+   "from": "bright studio",
+   "to": "second office in dallas",
+   "key": 0
+  },
+  {
+   "relation": "achieved",
+   "chunk_id": "annual_report_2025.pdf#p1#2",
+   "source": "annual_report_2025.pdf",
+   "from": "bright studio",
+   "to": "4.7 out of 5 satisfaction score",
+   "key": 0
+  },
+  {
+   "relation": "achieved",
+   "chunk_id": "annual_report_2025.pdf#p1#2",
+   "source": "annual_report_2025.pdf",
+   "from": "bright studio",
+   "to": "78% survey response rate",
+   "key": 0
+  },
+  {
+   "relation": "achieved",
+   "chunk_id": "annual_report_2025.pdf#p1#3",
+   "source": "annual_report_2025.pdf",
+   "from": "bright studio",
+   "to": "78% response rate",
+   "key": 0
+  },
+  {
+   "relation": "has_data",
+   "chunk_id": "annual_report_2025.pdf#p1#img1",
+   "source": "annual_report_2025.pdf",
+   "from": "bright studio",
+   "to": "active clients per quarter, 2025",
+   "key": 0
+  },
+  {
+   "relation": "has_data",
+   "chunk_id": "results_chart.png#img",
+   "source": "results_chart.png",
+   "from": "bright studio",
+   "to": "active clients per quarter, 2025",
+   "key": 1
+  },
+  {
+   "relation": "has_data",
+   "chunk_id": "annual_report_2025.pdf#p1#img1",
+   "source": "annual_report_2025.pdf",
+   "from": "bright studio",
+   "to": "clients by package, end of 2025",
+   "key": 0
+  },
+  {
+   "relation": "has_data",
+   "chunk_id": "results_chart.png#img",
+   "source": "results_chart.png",
+   "from": "bright studio",
+   "to": "clients by package, end of 2025",
+   "key": 1
+  },
+  {
+   "relation": "served",
+   "chunk_id": "case_studies.txt#1",
+   "source": "case_studies.txt",
+   "from": "bright studio",
+   "to": "maple & oak bakery",
+   "key": 0
+  },
+  {
+   "relation": "served",
+   "chunk_id": "case_studies.txt#5",
+   "source": "case_studies.txt",
+   "from": "bright studio",
+   "to": "maple & oak bakery",
+   "key": 1
+  },
+  {
+   "relation": "offers",
+   "chunk_id": "case_studies.txt#1",
+   "source": "case_studies.txt",
+   "from": "bright studio",
+   "to": "growth package",
+   "key": 0
+  },
+  {
+   "relation": "offers",
+   "chunk_id": "case_studies.txt#4",
+   "source": "case_studies.txt",
+   "from": "bright studio",
+   "to": "growth package",
+   "key": 1
+  },
+  {
+   "relation": "offers",
+   "chunk_id": "pricing.txt#1",
+   "source": "pricing.txt",
+   "from": "bright studio",
+   "to": "growth package",
+   "key": 2
+  },
+  {
+   "relation": "offers",
+   "chunk_id": "pricing.txt#2",
+   "source": "pricing.txt",
+   "from": "bright studio",
+   "to": "growth package",
+   "key": 3
+  },
+  {
+   "relation": "works_on",
+   "chunk_id": "case_studies.txt#1",
+   "source": "case_studies.txt",
+   "from": "bright studio",
+   "to": "instagram and facebook content",
+   "key": 0
+  },
+  {
+   "relation": "works_on",
+   "chunk_id": "case_studies.txt#1",
+   "source": "case_studies.txt",
+   "from": "bright studio",
+   "to": "local seo",
+   "key": 0
+  },
+  {
+   "relation": "works_on",
+   "chunk_id": "case_studies.txt#1",
+   "source": "case_studies.txt",
+   "from": "bright studio",
+   "to": "brand refresh",
+   "key": 0
+  },
+  {
+   "relation": "achieved",
+   "chunk_id": "case_studies.txt#2",
+   "source": "case_studies.txt",
+   "from": "bright studio",
+   "to": "instagram followers grew from 1,200 to 5,400 in 8 months",
+   "key": 0
+  },
+  {
+   "relation": "achieved",
+   "chunk_id": "case_studies.txt#2",
+   "source": "case_studies.txt",
+   "from": "bright studio",
+   "to": "bakery google maps ranking moved from 14 to 3",
+   "key": 0
+  },
+  {
+   "relation": "offers",
+   "chunk_id": "case_studies.txt#2",
+   "source": "case_studies.txt",
+   "from": "bright studio",
+   "to": "premier package",
+   "key": 0
+  },
+  {
+   "relation": "offers",
+   "chunk_id": "case_studies.txt#4",
+   "source": "case_studies.txt",
+   "from": "bright studio",
+   "to": "premier package",
+   "key": 1
+  },
+  {
+   "relation": "offers",
+   "chunk_id": "case_studies.txt#5",
+   "source": "case_studies.txt",
+   "from": "bright studio",
+   "to": "premier package",
+   "key": 2
+  },
+  {
+   "relation": "offers",
+   "chunk_id": "pricing.txt#2",
+   "source": "pricing.txt",
+   "from": "bright studio",
+   "to": "premier package",
+   "key": 3
+  },
+  {
+   "relation": "works_on",
+   "chunk_id": "case_studies.txt#2",
+   "source": "case_studies.txt",
+   "from": "bright studio",
+   "to": "full rebrand",
+   "key": 0
+  },
+  {
+   "relation": "works_on",
+   "chunk_id": "case_studies.txt#2",
+   "source": "case_studies.txt",
+   "from": "bright studio",
+   "to": "8-page website",
+   "key": 0
+  },
+  {
+   "relation": "works_on",
+   "chunk_id": "case_studies.txt#2",
+   "source": "case_studies.txt",
+   "from": "bright studio",
+   "to": "full seo",
+   "key": 0
+  },
+  {
+   "relation": "works_on",
+   "chunk_id": "case_studies.txt#2",
+   "source": "case_studies.txt",
+   "from": "bright studio",
+   "to": "social media on three platforms",
+   "key": 0
+  },
+  {
+   "relation": "offers",
+   "chunk_id": "case_studies.txt#3",
+   "source": "case_studies.txt",
+   "from": "bright studio",
+   "to": "standalone seo service",
+   "key": 0
+  },
+  {
+   "relation": "works_on",
+   "chunk_id": "case_studies.txt#3",
+   "source": "case_studies.txt",
+   "from": "bright studio",
+   "to": "keyword research",
+   "key": 0
+  },
+  {
+   "relation": "works_on",
+   "chunk_id": "case_studies.txt#3",
+   "source": "case_studies.txt",
+   "from": "bright studio",
+   "to": "technical audit",
+   "key": 0
+  },
+  {
+   "relation": "works_on",
+   "chunk_id": "case_studies.txt#3",
+   "source": "case_studies.txt",
+   "from": "bright studio",
+   "to": "20 blog articles",
+   "key": 0
+  },
+  {
+   "relation": "offers",
+   "chunk_id": "case_studies.txt#4",
+   "source": "case_studies.txt",
+   "from": "bright studio",
+   "to": "seo service",
+   "key": 0
+  },
+  {
+   "relation": "achieved",
+   "chunk_id": "case_studies.txt#4",
+   "source": "case_studies.txt",
+   "from": "bright studio",
+   "to": "240% organic traffic growth",
+   "key": 0
+  },
+  {
+   "relation": "achieved",
+   "chunk_id": "case_studies.txt#4",
+   "source": "case_studies.txt",
+   "from": "bright studio",
+   "to": "free-trial sign-ups increased from 35 to 118 per month",
+   "key": 0
+  },
+  {
+   "relation": "achieved",
+   "chunk_id": "case_studies.txt#4",
+   "source": "case_studies.txt",
+   "from": "bright studio",
+   "to": "three target keywords reached first page of google",
+   "key": 0
+  },
+  {
+   "relation": "served",
+   "chunk_id": "case_studies.txt#5",
+   "source": "case_studies.txt",
+   "from": "bright studio",
+   "to": "peakfit gym",
+   "key": 0
+  },
+  {
+   "relation": "has_role",
+   "chunk_id": "faq.txt#1",
+   "source": "faq.txt",
+   "from": "bright studio",
+   "to": "onboarding",
+   "key": 0
+  },
+  {
+   "relation": "requires",
+   "chunk_id": "faq.txt#3",
+   "source": "faq.txt",
+   "from": "bright studio",
+   "to": "30 days written notice",
+   "key": 0
+  },
+  {
+   "relation": "requires",
+   "chunk_id": "faq.txt#3",
+   "source": "faq.txt",
+   "from": "bright studio",
+   "to": "emailing aisha@brightstudio.example",
+   "key": 0
+  },
+  {
+   "relation": "keeps",
+   "chunk_id": "faq.txt#3",
+   "source": "faq.txt",
+   "from": "bright studio",
+   "to": "right to show the work",
+   "key": 0
+  },
+  {
+   "relation": "has_right",
+   "chunk_id": "faq.txt#4",
+   "source": "faq.txt",
+   "from": "bright studio",
+   "to": "show work in portfolio",
+   "key": 0
+  },
+  {
+   "relation": "offers",
+   "chunk_id": "faq.txt#4",
+   "source": "faq.txt",
+   "from": "bright studio",
+   "to": "pause package",
+   "key": 0
+  },
+  {
+   "relation": "works_with",
+   "chunk_id": "faq.txt#4",
+   "source": "faq.txt",
+   "from": "bright studio",
+   "to": "clients outside texas",
+   "key": 0
+  },
+  {
+   "relation": "works_on",
+   "chunk_id": "faq.txt#4",
+   "source": "faq.txt",
+   "from": "bright studio",
+   "to": "remote work",
+   "key": 0
+  },
+  {
+   "relation": "works_on",
+   "chunk_id": "faq.txt#5",
+   "source": "faq.txt",
+   "from": "bright studio",
+   "to": "remote work",
+   "key": 1
+  },
+  {
+   "relation": "located_in",
+   "chunk_id": "faq.txt#5",
+   "source": "faq.txt",
+   "from": "bright studio",
+   "to": "texas",
+   "key": 0
+  },
+  {
+   "relation": "offers",
+   "chunk_id": "faq.txt#5",
+   "source": "faq.txt",
+   "from": "bright studio",
+   "to": "in-person meetings in austin",
+   "key": 0
+  },
+  {
+   "relation": "does_not_manage",
+   "chunk_id": "faq.txt#5",
+   "source": "faq.txt",
+   "from": "bright studio",
+   "to": "paid advertising",
+   "key": 0
+  },
+  {
+   "relation": "offers",
+   "chunk_id": "faq.txt#5",
+   "source": "faq.txt",
+   "from": "bright studio",
+   "to": "referrals to partner agencies",
+   "key": 0
+  },
+  {
+   "relation": "has_office_hours",
+   "chunk_id": "faq.txt#5",
+   "source": "faq.txt",
+   "from": "bright studio",
+   "to": "monday to friday, 9:00 am to 5:30 pm central time",
+   "key": 0
+  },
+  {
+   "relation": "has_office_hours",
+   "chunk_id": "services.txt#6",
+   "source": "services.txt",
+   "from": "bright studio",
+   "to": "monday to friday, 9:00 am to 5:30 pm central time",
+   "key": 1
+  },
+  {
+   "relation": "responds_to_emails_within",
+   "chunk_id": "faq.txt#5",
+   "source": "faq.txt",
+   "from": "bright studio",
+   "to": "one business day",
+   "key": 0
+  },
+  {
+   "relation": "fixes_issues_within",
+   "chunk_id": "faq.txt#5",
+   "source": "faq.txt",
+   "from": "bright studio",
+   "to": "specified timeframe",
+   "key": 0
+  },
+  {
+   "relation": "offers",
+   "chunk_id": "faq.txt#6",
+   "source": "faq.txt",
+   "from": "bright studio",
+   "to": "monthly package",
+   "key": 0
+  },
+  {
+   "relation": "offers",
+   "chunk_id": "faq.txt#6",
+   "source": "faq.txt",
+   "from": "bright studio",
+   "to": "revision rounds",
+   "key": 0
+  },
+  {
+   "relation": "offers",
+   "chunk_id": "faq.txt#6",
+   "source": "faq.txt",
+   "from": "bright studio",
+   "to": "refund",
+   "key": 0
+  },
+  {
+   "relation": "offers",
+   "chunk_id": "pricing.txt#1",
+   "source": "pricing.txt",
+   "from": "bright studio",
+   "to": "starter package",
+   "key": 0
+  },
+  {
+   "relation": "offers",
+   "chunk_id": "pricing.txt#1",
+   "source": "pricing.txt",
+   "from": "bright studio",
+   "to": "three monthly packages",
+   "key": 0
+  },
+  {
+   "relation": "offers",
+   "chunk_id": "pricing.txt#5",
+   "source": "pricing.txt",
+   "from": "bright studio",
+   "to": "social media management",
+   "key": 0
+  },
+  {
+   "relation": "offers",
+   "chunk_id": "services.txt#3",
+   "source": "services.txt",
+   "from": "bright studio",
+   "to": "social media management",
+   "key": 1
+  },
+  {
+   "relation": "offers",
+   "chunk_id": "pricing.txt#5",
+   "source": "pricing.txt",
+   "from": "bright studio",
+   "to": "standalone branding project",
+   "key": 0
+  },
+  {
+   "relation": "offers",
+   "chunk_id": "pricing.txt#5",
+   "source": "pricing.txt",
+   "from": "bright studio",
+   "to": "standalone web design project",
+   "key": 0
+  },
+  {
+   "relation": "offers",
+   "chunk_id": "pricing.txt#5",
+   "source": "pricing.txt",
+   "from": "bright studio",
+   "to": "extra social media posts",
+   "key": 0
+  },
+  {
+   "relation": "requires",
+   "chunk_id": "pricing.txt#5",
+   "source": "pricing.txt",
+   "from": "bright studio",
+   "to": "bank transfer (ach)",
+   "key": 0
+  },
+  {
+   "relation": "requires",
+   "chunk_id": "pricing.txt#6",
+   "source": "pricing.txt",
+   "from": "bright studio",
+   "to": "bank transfer (ach)",
+   "key": 1
+  },
+  {
+   "relation": "requires",
+   "chunk_id": "pricing.txt#5",
+   "source": "pricing.txt",
+   "from": "bright studio",
+   "to": "credit card",
+   "key": 0
+  },
+  {
+   "relation": "requires",
+   "chunk_id": "pricing.txt#6",
+   "source": "pricing.txt",
+   "from": "bright studio",
+   "to": "credit card",
+   "key": 1
+  },
+  {
+   "relation": "offers",
+   "chunk_id": "pricing.txt#6",
+   "source": "pricing.txt",
+   "from": "bright studio",
+   "to": "10% discount",
+   "key": 0
+  },
+  {
+   "relation": "located_in",
+   "chunk_id": "services.txt#1",
+   "source": "services.txt",
+   "from": "bright studio",
+   "to": "austin, texas",
+   "key": 0
+  },
+  {
+   "relation": "founded_in",
+   "chunk_id": "services.txt#1",
+   "source": "services.txt",
+   "from": "bright studio",
+   "to": "2018",
+   "key": 0
+  },
+  {
+   "relation": "has_role",
+   "chunk_id": "services.txt#1",
+   "source": "services.txt",
+   "from": "bright studio",
+   "to": "creative marketing agency",
+   "key": 0
+  },
+  {
+   "relation": "has_count",
+   "chunk_id": "services.txt#1",
+   "source": "services.txt",
+   "from": "bright studio",
+   "to": "6 team members",
+   "key": 0
+  },
+  {
+   "relation": "has_count",
+   "chunk_id": "team.txt#1",
+   "source": "team.txt",
+   "from": "bright studio",
+   "to": "6 team members",
+   "key": 1
+  },
+  {
+   "relation": "works_with",
+   "chunk_id": "services.txt#1",
+   "source": "services.txt",
+   "from": "bright studio",
+   "to": "local businesses",
+   "key": 0
+  },
+  {
+   "relation": "works_with",
+   "chunk_id": "services.txt#1",
+   "source": "services.txt",
+   "from": "bright studio",
+   "to": "startups",
+   "key": 0
+  },
+  {
+   "relation": "offers",
+   "chunk_id": "services.txt#1",
+   "source": "services.txt",
+   "from": "bright studio",
+   "to": "4 core services",
+   "key": 0
+  },
+  {
+   "relation": "offers",
+   "chunk_id": "services.txt#1",
+   "source": "services.txt",
+   "from": "bright studio",
+   "to": "seo",
+   "key": 0
+  },
+  {
+   "relation": "offers",
+   "chunk_id": "services.txt#2",
+   "source": "services.txt",
+   "from": "bright studio",
+   "to": "seo package",
+   "key": 0
+  },
+  {
+   "relation": "offers",
+   "chunk_id": "services.txt#2",
+   "source": "services.txt",
+   "from": "bright studio",
+   "to": "branding service",
+   "key": 0
+  },
+  {
+   "relation": "offers",
+   "chunk_id": "services.txt#3",
+   "source": "services.txt",
+   "from": "bright studio",
+   "to": "brand voice guide",
+   "key": 0
+  },
+  {
+   "relation": "offers",
+   "chunk_id": "services.txt#3",
+   "source": "services.txt",
+   "from": "bright studio",
+   "to": "20-page brand guidelines pdf",
+   "key": 0
+  },
+  {
+   "relation": "offers",
+   "chunk_id": "services.txt#4",
+   "source": "services.txt",
+   "from": "bright studio",
+   "to": "community management",
+   "key": 0
+  },
+  {
+   "relation": "does_not_manage",
+   "chunk_id": "services.txt#4",
+   "source": "services.txt",
+   "from": "bright studio",
+   "to": "tiktok",
+   "key": 0
+  },
+  {
+   "relation": "does_not_manage",
+   "chunk_id": "services.txt#4",
+   "source": "services.txt",
+   "from": "bright studio",
+   "to": "x (twitter)",
+   "key": 0
+  },
+  {
+   "relation": "offers",
+   "chunk_id": "services.txt#4",
+   "source": "services.txt",
+   "from": "bright studio",
+   "to": "web design",
+   "key": 0
+  },
+  {
+   "relation": "offers",
+   "chunk_id": "services.txt#5",
+   "source": "services.txt",
+   "from": "bright studio",
+   "to": "on-page seo setup",
+   "key": 0
+  },
+  {
+   "relation": "offers",
+   "chunk_id": "services.txt#5",
+   "source": "services.txt",
+   "from": "bright studio",
+   "to": "30 days of free support",
+   "key": 0
+  },
+  {
+   "relation": "has_role",
+   "chunk_id": "services.txt#5",
+   "source": "services.txt",
+   "from": "bright studio",
+   "to": "daniel okafor",
+   "key": 0
+  },
+  {
+   "relation": "does_not_offer",
+   "chunk_id": "services.txt#5",
+   "source": "services.txt",
+   "from": "bright studio",
+   "to": "paid advertising management",
+   "key": 0
+  },
+  {
+   "relation": "does_not_offer",
+   "chunk_id": "services.txt#5",
+   "source": "services.txt",
+   "from": "bright studio",
+   "to": "video production",
+   "key": 0
+  },
+  {
+   "relation": "does_not_offer",
+   "chunk_id": "services.txt#5",
+   "source": "services.txt",
+   "from": "bright studio",
+   "to": "public relations",
+   "key": 0
+  },
+  {
+   "relation": "does_not_offer",
+   "chunk_id": "services.txt#5",
+   "source": "services.txt",
+   "from": "bright studio",
+   "to": "legal services",
+   "key": 0
+  },
+  {
+   "relation": "does_not_offer",
+   "chunk_id": "services.txt#5",
+   "source": "services.txt",
+   "from": "bright studio",
+   "to": "accounting services",
+   "key": 0
+  },
+  {
+   "relation": "offers",
+   "chunk_id": "services.txt#6",
+   "source": "services.txt",
+   "from": "bright studio",
+   "to": "accounting services",
+   "key": 1
+  },
+  {
+   "relation": "does_not_include",
+   "chunk_id": "services.txt#5",
+   "source": "services.txt",
+   "from": "bright studio",
+   "to": "e-commerce stores",
+   "key": 0
+  },
+  {
+   "relation": "recommends",
+   "chunk_id": "services.txt#6",
+   "source": "services.txt",
+   "from": "bright studio",
+   "to": "trusted partner companies",
+   "key": 0
+  },
+  {
+   "relation": "has_contact_email",
+   "chunk_id": "services.txt#6",
+   "source": "services.txt",
+   "from": "bright studio",
+   "to": "hello@brightstudio.example",
+   "key": 0
+  },
+  {
+   "relation": "has_phone",
+   "chunk_id": "services.txt#6",
+   "source": "services.txt",
+   "from": "bright studio",
+   "to": "(512) 555-0147",
+   "key": 0
+  },
+  {
+   "relation": "has_member",
+   "chunk_id": "team.txt#1",
+   "source": "team.txt",
+   "from": "bright studio",
+   "to": "sarah chen",
+   "key": 0
+  },
+  {
+   "relation": "has_member",
+   "chunk_id": "team.txt#1",
+   "source": "team.txt",
+   "from": "bright studio",
+   "to": "marcus webb",
+   "key": 0
+  },
+  {
+   "relation": "is_most_popular",
+   "chunk_id": "annual_report_2025.pdf#p1#1",
+   "source": "annual_report_2025.pdf",
+   "from": "growth package",
+   "to": "true",
+   "key": 0
+  },
+  {
+   "relation": "has_count",
+   "chunk_id": "annual_report_2025.pdf#p1#img1",
+   "source": "annual_report_2025.pdf",
+   "from": "growth package",
+   "to": "11",
+   "key": 0
+  },
+  {
+   "relation": "has_count",
+   "chunk_id": "results_chart.png#img",
+   "source": "results_chart.png",
+   "from": "growth package",
+   "to": "11",
+   "key": 1
+  },
+  {
+   "relation": "costs",
+   "chunk_id": "case_studies.txt#1",
+   "source": "case_studies.txt",
+   "from": "growth package",
+   "to": "8 months",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "case_studies.txt#4",
+   "source": "case_studies.txt",
+   "from": "growth package",
+   "to": "keyword research",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "case_studies.txt#4",
+   "source": "case_studies.txt",
+   "from": "growth package",
+   "to": "technical audit",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "case_studies.txt#4",
+   "source": "case_studies.txt",
+   "from": "growth package",
+   "to": "20 blog articles",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "case_studies.txt#4",
+   "source": "case_studies.txt",
+   "from": "growth package",
+   "to": "backlink outreach",
+   "key": 0
+  },
+  {
+   "relation": "has_contract_length",
+   "chunk_id": "faq.txt#2",
+   "source": "faq.txt",
+   "from": "growth package",
+   "to": "6 months",
+   "key": 0
+  },
+  {
+   "relation": "costs",
+   "chunk_id": "pricing.txt#1",
+   "source": "pricing.txt",
+   "from": "growth package",
+   "to": "$1,800 per month",
+   "key": 0
+  },
+  {
+   "relation": "costs",
+   "chunk_id": "pricing.txt#2",
+   "source": "pricing.txt",
+   "from": "growth package",
+   "to": "$1,800 per month",
+   "key": 1
+  },
+  {
+   "relation": "requires",
+   "chunk_id": "pricing.txt#2",
+   "source": "pricing.txt",
+   "from": "growth package",
+   "to": "3 months minimum contract",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "pricing.txt#2",
+   "source": "pricing.txt",
+   "from": "growth package",
+   "to": "social media management",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "pricing.txt#2",
+   "source": "pricing.txt",
+   "from": "growth package",
+   "to": "basic seo",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "pricing.txt#2",
+   "source": "pricing.txt",
+   "from": "growth package",
+   "to": "one-time brand refresh",
+   "key": 0
+  },
+  {
+   "relation": "is",
+   "chunk_id": "pricing.txt#3",
+   "source": "pricing.txt",
+   "from": "growth package",
+   "to": "monthly marketing package",
+   "key": 0
+  },
+  {
+   "relation": "is_a",
+   "chunk_id": "pricing.txt#4",
+   "source": "pricing.txt",
+   "from": "growth package",
+   "to": "monthly marketing package",
+   "key": 1
+  },
+  {
+   "relation": "stays",
+   "chunk_id": "annual_report_2025.pdf#p1#1",
+   "source": "annual_report_2025.pdf",
+   "from": "average client",
+   "to": "14 months",
+   "key": 0
+  },
+  {
+   "relation": "has_role",
+   "chunk_id": "annual_report_2025.pdf#p1#2",
+   "source": "annual_report_2025.pdf",
+   "from": "aisha rahman",
+   "to": "account manager",
+   "key": 0
+  },
+  {
+   "relation": "has_role",
+   "chunk_id": "faq.txt#5",
+   "source": "faq.txt",
+   "from": "aisha rahman",
+   "to": "account manager",
+   "key": 1
+  },
+  {
+   "relation": "has_role",
+   "chunk_id": "faq.txt#6",
+   "source": "faq.txt",
+   "from": "aisha rahman",
+   "to": "account manager",
+   "key": 2
+  },
+  {
+   "relation": "has_role",
+   "chunk_id": "team.txt#4",
+   "source": "team.txt",
+   "from": "aisha rahman",
+   "to": "account manager",
+   "key": 3
+  },
+  {
+   "relation": "serves_as",
+   "chunk_id": "team.txt#4",
+   "source": "team.txt",
+   "from": "aisha rahman",
+   "to": "first point of contact",
+   "key": 0
+  },
+  {
+   "relation": "handles",
+   "chunk_id": "team.txt#4",
+   "source": "team.txt",
+   "from": "aisha rahman",
+   "to": "onboarding",
+   "key": 0
+  },
+  {
+   "relation": "handles",
+   "chunk_id": "team.txt#4",
+   "source": "team.txt",
+   "from": "aisha rahman",
+   "to": "contracts",
+   "key": 0
+  },
+  {
+   "relation": "handles",
+   "chunk_id": "team.txt#4",
+   "source": "team.txt",
+   "from": "aisha rahman",
+   "to": "invoices",
+   "key": 0
+  },
+  {
+   "relation": "handles",
+   "chunk_id": "team.txt#4",
+   "source": "team.txt",
+   "from": "aisha rahman",
+   "to": "day-to-day questions",
+   "key": 0
+  },
+  {
+   "relation": "has_role",
+   "chunk_id": "team.txt#5",
+   "source": "team.txt",
+   "from": "aisha rahman",
+   "to": "new client or general question",
+   "key": 0
+  },
+  {
+   "relation": "has_count",
+   "chunk_id": "annual_report_2025.pdf#p1#img1",
+   "source": "annual_report_2025.pdf",
+   "from": "q1 2025",
+   "to": "14",
+   "key": 0
+  },
+  {
+   "relation": "has_count",
+   "chunk_id": "results_chart.png#img",
+   "source": "results_chart.png",
+   "from": "q1 2025",
+   "to": "14",
+   "key": 1
+  },
+  {
+   "relation": "has_count",
+   "chunk_id": "annual_report_2025.pdf#p1#img1",
+   "source": "annual_report_2025.pdf",
+   "from": "q2 2025",
+   "to": "17",
+   "key": 0
+  },
+  {
+   "relation": "has_count",
+   "chunk_id": "results_chart.png#img",
+   "source": "results_chart.png",
+   "from": "q2 2025",
+   "to": "17",
+   "key": 1
+  },
+  {
+   "relation": "has_count",
+   "chunk_id": "annual_report_2025.pdf#p1#img1",
+   "source": "annual_report_2025.pdf",
+   "from": "q3 2025",
+   "to": "21",
+   "key": 0
+  },
+  {
+   "relation": "has_count",
+   "chunk_id": "results_chart.png#img",
+   "source": "results_chart.png",
+   "from": "q3 2025",
+   "to": "21",
+   "key": 1
+  },
+  {
+   "relation": "has_count",
+   "chunk_id": "annual_report_2025.pdf#p1#img1",
+   "source": "annual_report_2025.pdf",
+   "from": "q4 2025",
+   "to": "26",
+   "key": 0
+  },
+  {
+   "relation": "has_count",
+   "chunk_id": "results_chart.png#img",
+   "source": "results_chart.png",
+   "from": "q4 2025",
+   "to": "26",
+   "key": 1
+  },
+  {
+   "relation": "has_count",
+   "chunk_id": "annual_report_2025.pdf#p1#img1",
+   "source": "annual_report_2025.pdf",
+   "from": "premier package",
+   "to": "6",
+   "key": 0
+  },
+  {
+   "relation": "has_count",
+   "chunk_id": "results_chart.png#img",
+   "source": "results_chart.png",
+   "from": "premier package",
+   "to": "6",
+   "key": 1
+  },
+  {
+   "relation": "requires",
+   "chunk_id": "case_studies.txt#2",
+   "source": "case_studies.txt",
+   "from": "premier package",
+   "to": "12 months",
+   "key": 0
+  },
+  {
+   "relation": "has_contract_length",
+   "chunk_id": "faq.txt#2",
+   "source": "faq.txt",
+   "from": "premier package",
+   "to": "12 months",
+   "key": 1
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "case_studies.txt#5",
+   "source": "case_studies.txt",
+   "from": "premier package",
+   "to": "ledgerleaf",
+   "key": 0
+  },
+  {
+   "relation": "costs",
+   "chunk_id": "pricing.txt#2",
+   "source": "pricing.txt",
+   "from": "premier package",
+   "to": "$3,500 per month",
+   "key": 0
+  },
+  {
+   "relation": "costs",
+   "chunk_id": "pricing.txt#3",
+   "source": "pricing.txt",
+   "from": "premier package",
+   "to": "$3,500 per month",
+   "key": 1
+  },
+  {
+   "relation": "requires",
+   "chunk_id": "pricing.txt#2",
+   "source": "pricing.txt",
+   "from": "premier package",
+   "to": "6 months minimum contract",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "pricing.txt#3",
+   "source": "pricing.txt",
+   "from": "premier package",
+   "to": "growth package",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "pricing.txt#3",
+   "source": "pricing.txt",
+   "from": "premier package",
+   "to": "full seo",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "pricing.txt#3",
+   "source": "pricing.txt",
+   "from": "premier package",
+   "to": "complete branding project",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "pricing.txt#3",
+   "source": "pricing.txt",
+   "from": "premier package",
+   "to": "one new website",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "pricing.txt#3",
+   "source": "pricing.txt",
+   "from": "premier package",
+   "to": "dedicated monthly strategy call",
+   "key": 0
+  },
+  {
+   "relation": "requires",
+   "chunk_id": "pricing.txt#3",
+   "source": "pricing.txt",
+   "from": "premier package",
+   "to": "12 months minimum contract",
+   "key": 0
+  },
+  {
+   "relation": "has_count",
+   "chunk_id": "annual_report_2025.pdf#p1#img1",
+   "source": "annual_report_2025.pdf",
+   "from": "starter package",
+   "to": "9",
+   "key": 0
+  },
+  {
+   "relation": "has_count",
+   "chunk_id": "results_chart.png#img",
+   "source": "results_chart.png",
+   "from": "starter package",
+   "to": "9",
+   "key": 1
+  },
+  {
+   "relation": "has_contract_length",
+   "chunk_id": "faq.txt#2",
+   "source": "faq.txt",
+   "from": "starter package",
+   "to": "3 months",
+   "key": 0
+  },
+  {
+   "relation": "costs",
+   "chunk_id": "pricing.txt#1",
+   "source": "pricing.txt",
+   "from": "starter package",
+   "to": "$750 per month",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "pricing.txt#1",
+   "source": "pricing.txt",
+   "from": "starter package",
+   "to": "social media management on one platform",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "pricing.txt#1",
+   "source": "pricing.txt",
+   "from": "starter package",
+   "to": "12 posts per month",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "pricing.txt#1",
+   "source": "pricing.txt",
+   "from": "starter package",
+   "to": "monthly analytics summary",
+   "key": 0
+  },
+  {
+   "relation": "requires",
+   "chunk_id": "pricing.txt#1",
+   "source": "pricing.txt",
+   "from": "starter package",
+   "to": "3 months minimum contract",
+   "key": 0
+  },
+  {
+   "relation": "has_count",
+   "chunk_id": "annual_report_2025.pdf#p1#img1",
+   "source": "annual_report_2025.pdf",
+   "from": "total clients",
+   "to": "26",
+   "key": 0
+  },
+  {
+   "relation": "has_count",
+   "chunk_id": "results_chart.png#img",
+   "source": "results_chart.png",
+   "from": "total clients",
+   "to": "26",
+   "key": 1
+  },
+  {
+   "relation": "located_in",
+   "chunk_id": "case_studies.txt#1",
+   "source": "case_studies.txt",
+   "from": "maple & oak bakery",
+   "to": "austin",
+   "key": 0
+  },
+  {
+   "relation": "achieved",
+   "chunk_id": "case_studies.txt#1",
+   "source": "case_studies.txt",
+   "from": "maple & oak bakery",
+   "to": "62% increase in online orders",
+   "key": 0
+  },
+  {
+   "relation": "achieved",
+   "chunk_id": "case_studies.txt#1",
+   "source": "case_studies.txt",
+   "from": "maple & oak bakery",
+   "to": "instagram followers grew from 1,200 to 5,400",
+   "key": 0
+  },
+  {
+   "relation": "achieved",
+   "chunk_id": "case_studies.txt#4",
+   "source": "case_studies.txt",
+   "from": "maple & oak bakery",
+   "to": "+62% online orders",
+   "key": 0
+  },
+  {
+   "relation": "served_by",
+   "chunk_id": "case_studies.txt#4",
+   "source": "case_studies.txt",
+   "from": "maple & oak bakery",
+   "to": "growth package",
+   "key": 0
+  },
+  {
+   "relation": "located_in",
+   "chunk_id": "case_studies.txt#2",
+   "source": "case_studies.txt",
+   "from": "peakfit gym",
+   "to": "round rock",
+   "key": 0
+  },
+  {
+   "relation": "achieved",
+   "chunk_id": "case_studies.txt#2",
+   "source": "case_studies.txt",
+   "from": "peakfit gym",
+   "to": "membership sign-ups rose by 41% in 6 months",
+   "key": 0
+  },
+  {
+   "relation": "achieved",
+   "chunk_id": "case_studies.txt#2",
+   "source": "case_studies.txt",
+   "from": "peakfit gym",
+   "to": "website traffic grew by 180%",
+   "key": 0
+  },
+  {
+   "relation": "achieved",
+   "chunk_id": "case_studies.txt#4",
+   "source": "case_studies.txt",
+   "from": "peakfit gym",
+   "to": "+41% memberships",
+   "key": 0
+  },
+  {
+   "relation": "served_by",
+   "chunk_id": "case_studies.txt#4",
+   "source": "case_studies.txt",
+   "from": "peakfit gym",
+   "to": "premier package",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "pricing.txt#3",
+   "source": "pricing.txt",
+   "from": "full seo",
+   "to": "30 keywords",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "pricing.txt#3",
+   "source": "pricing.txt",
+   "from": "full seo",
+   "to": "15 pages",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "pricing.txt#3",
+   "source": "pricing.txt",
+   "from": "full seo",
+   "to": "5 backlinks per month",
+   "key": 0
+  },
+  {
+   "relation": "achieved",
+   "chunk_id": "case_studies.txt#3",
+   "source": "case_studies.txt",
+   "from": "membership sign-ups",
+   "to": "41% increase in 6 months",
+   "key": 0
+  },
+  {
+   "relation": "achieved",
+   "chunk_id": "case_studies.txt#3",
+   "source": "case_studies.txt",
+   "from": "website traffic",
+   "to": "180% growth",
+   "key": 0
+  },
+  {
+   "relation": "has_speed",
+   "chunk_id": "case_studies.txt#3",
+   "source": "case_studies.txt",
+   "from": "new website",
+   "to": "1.8 seconds",
+   "key": 0
+  },
+  {
+   "relation": "takes",
+   "chunk_id": "faq.txt#2",
+   "source": "faq.txt",
+   "from": "new website",
+   "to": "6 to 8 weeks",
+   "key": 0
+  },
+  {
+   "relation": "has_speed",
+   "chunk_id": "case_studies.txt#3",
+   "source": "case_studies.txt",
+   "from": "old website",
+   "to": "6.2 seconds",
+   "key": 0
+  },
+  {
+   "relation": "achieved",
+   "chunk_id": "case_studies.txt#3",
+   "source": "case_studies.txt",
+   "from": "gym",
+   "to": "full capacity at second location in 4 months",
+   "key": 0
+  },
+  {
+   "relation": "is_a",
+   "chunk_id": "case_studies.txt#3",
+   "source": "case_studies.txt",
+   "from": "ledgerleaf",
+   "to": "accounting software startup",
+   "key": 0
+  },
+  {
+   "relation": "requires",
+   "chunk_id": "case_studies.txt#3",
+   "source": "case_studies.txt",
+   "from": "ledgerleaf",
+   "to": "qualified sign-ups for free trial",
+   "key": 0
+  },
+  {
+   "relation": "achieved",
+   "chunk_id": "case_studies.txt#4",
+   "source": "case_studies.txt",
+   "from": "ledgerleaf",
+   "to": "+240% organic traffic",
+   "key": 0
+  },
+  {
+   "relation": "achieved",
+   "chunk_id": "case_studies.txt#5",
+   "source": "case_studies.txt",
+   "from": "ledgerleaf",
+   "to": "+240% organic traffic",
+   "key": 1
+  },
+  {
+   "relation": "served_by",
+   "chunk_id": "case_studies.txt#4",
+   "source": "case_studies.txt",
+   "from": "ledgerleaf",
+   "to": "seo service",
+   "key": 0
+  },
+  {
+   "relation": "offers",
+   "chunk_id": "case_studies.txt#5",
+   "source": "case_studies.txt",
+   "from": "ledgerleaf",
+   "to": "seo service",
+   "key": 1
+  },
+  {
+   "relation": "has_duration",
+   "chunk_id": "case_studies.txt#3",
+   "source": "case_studies.txt",
+   "from": "standalone seo service",
+   "to": "10 months",
+   "key": 0
+  },
+  {
+   "relation": "has_billing",
+   "chunk_id": "case_studies.txt#3",
+   "source": "case_studies.txt",
+   "from": "standalone seo service",
+   "to": "month-to-month",
+   "key": 0
+  },
+  {
+   "relation": "has_contract_length",
+   "chunk_id": "faq.txt#2",
+   "source": "faq.txt",
+   "from": "standalone seo service",
+   "to": "month-to-month",
+   "key": 1
+  },
+  {
+   "relation": "costs",
+   "chunk_id": "pricing.txt#4",
+   "source": "pricing.txt",
+   "from": "standalone seo service",
+   "to": "$1,200 per month",
+   "key": 0
+  },
+  {
+   "relation": "requires",
+   "chunk_id": "pricing.txt#4",
+   "source": "pricing.txt",
+   "from": "standalone seo service",
+   "to": "month-to-month contract",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "faq.txt#1",
+   "source": "faq.txt",
+   "from": "onboarding",
+   "to": "4 steps",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "faq.txt#1",
+   "source": "faq.txt",
+   "from": "step 1",
+   "to": "30-minute discovery call",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "faq.txt#1",
+   "source": "faq.txt",
+   "from": "step 1",
+   "to": "aisha rahman",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "faq.txt#1",
+   "source": "faq.txt",
+   "from": "step 2",
+   "to": "proposal within 3 business days",
+   "key": 0
+  },
+  {
+   "relation": "requires",
+   "chunk_id": "faq.txt#1",
+   "source": "faq.txt",
+   "from": "step 3",
+   "to": "contract signature",
+   "key": 0
+  },
+  {
+   "relation": "requires",
+   "chunk_id": "faq.txt#1",
+   "source": "faq.txt",
+   "from": "step 3",
+   "to": "first invoice payment",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "faq.txt#1",
+   "source": "faq.txt",
+   "from": "step 4",
+   "to": "kickoff meeting",
+   "key": 0
+  },
+  {
+   "relation": "requires",
+   "chunk_id": "faq.txt#1",
+   "source": "faq.txt",
+   "from": "step 4",
+   "to": "brand assets",
+   "key": 0
+  },
+  {
+   "relation": "requires",
+   "chunk_id": "faq.txt#1",
+   "source": "faq.txt",
+   "from": "step 4",
+   "to": "logins",
+   "key": 0
+  },
+  {
+   "relation": "occurs_within",
+   "chunk_id": "faq.txt#1",
+   "source": "faq.txt",
+   "from": "step 4",
+   "to": "5 business days of signing",
+   "key": 0
+  },
+  {
+   "relation": "achieved_within",
+   "chunk_id": "faq.txt#1",
+   "source": "faq.txt",
+   "from": "social media management",
+   "to": "4 to 8 weeks",
+   "key": 0
+  },
+  {
+   "relation": "improves_within",
+   "chunk_id": "faq.txt#2",
+   "source": "faq.txt",
+   "from": "social media management",
+   "to": "4 to 8 weeks",
+   "key": 1
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "pricing.txt#2",
+   "source": "pricing.txt",
+   "from": "social media management",
+   "to": "instagram",
+   "key": 0
+  },
+  {
+   "relation": "covers",
+   "chunk_id": "services.txt#3",
+   "source": "services.txt",
+   "from": "social media management",
+   "to": "instagram",
+   "key": 1
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "pricing.txt#2",
+   "source": "pricing.txt",
+   "from": "social media management",
+   "to": "facebook",
+   "key": 0
+  },
+  {
+   "relation": "covers",
+   "chunk_id": "services.txt#3",
+   "source": "services.txt",
+   "from": "social media management",
+   "to": "facebook",
+   "key": 1
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "pricing.txt#2",
+   "source": "pricing.txt",
+   "from": "social media management",
+   "to": "linkedin",
+   "key": 0
+  },
+  {
+   "relation": "covers",
+   "chunk_id": "services.txt#3",
+   "source": "services.txt",
+   "from": "social media management",
+   "to": "linkedin",
+   "key": 1
+  },
+  {
+   "relation": "costs",
+   "chunk_id": "pricing.txt#5",
+   "source": "pricing.txt",
+   "from": "social media management",
+   "to": "$950 per month",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "pricing.txt#5",
+   "source": "pricing.txt",
+   "from": "social media management",
+   "to": "three platforms",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "services.txt#3",
+   "source": "services.txt",
+   "from": "social media management",
+   "to": "monthly content calendar",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "services.txt#3",
+   "source": "services.txt",
+   "from": "social media management",
+   "to": "12 designed posts per month",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "services.txt#3",
+   "source": "services.txt",
+   "from": "social media management",
+   "to": "community management",
+   "key": 0
+  },
+  {
+   "relation": "achieved_within",
+   "chunk_id": "faq.txt#1",
+   "source": "faq.txt",
+   "from": "seo",
+   "to": "3 to 6 months",
+   "key": 0
+  },
+  {
+   "relation": "takes",
+   "chunk_id": "faq.txt#2",
+   "source": "faq.txt",
+   "from": "seo",
+   "to": "3 to 6 months",
+   "key": 1
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "services.txt#1",
+   "source": "services.txt",
+   "from": "seo",
+   "to": "technical site audit",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "services.txt#1",
+   "source": "services.txt",
+   "from": "seo",
+   "to": "keyword research for up to 30 target keywords",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "services.txt#1",
+   "source": "services.txt",
+   "from": "seo",
+   "to": "on-page optimization of up to 15 pages",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "services.txt#1",
+   "source": "services.txt",
+   "from": "seo",
+   "to": "monthly backlink outreach (5 new quality links per month)",
+   "key": 0
+  },
+  {
+   "relation": "takes",
+   "chunk_id": "faq.txt#2",
+   "source": "faq.txt",
+   "from": "branding projects",
+   "to": "4 to 6 weeks",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "team.txt#2",
+   "source": "team.txt",
+   "from": "branding projects",
+   "to": "logos",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "team.txt#2",
+   "source": "team.txt",
+   "from": "branding projects",
+   "to": "brand guidelines",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "team.txt#2",
+   "source": "team.txt",
+   "from": "branding projects",
+   "to": "brand voice",
+   "key": 0
+  },
+  {
+   "relation": "has_contract_length",
+   "chunk_id": "faq.txt#2",
+   "source": "faq.txt",
+   "from": "branding",
+   "to": "no ongoing contract",
+   "key": 0
+  },
+  {
+   "relation": "included_in",
+   "chunk_id": "services.txt#3",
+   "source": "services.txt",
+   "from": "branding",
+   "to": "growth package",
+   "key": 0
+  },
+  {
+   "relation": "included_in",
+   "chunk_id": "services.txt#3",
+   "source": "services.txt",
+   "from": "branding",
+   "to": "premier package",
+   "key": 0
+  },
+  {
+   "relation": "has_contract_length",
+   "chunk_id": "faq.txt#2",
+   "source": "faq.txt",
+   "from": "web design",
+   "to": "no ongoing contract",
+   "key": 0
+  },
+  {
+   "relation": "creates",
+   "chunk_id": "services.txt#4",
+   "source": "services.txt",
+   "from": "web design",
+   "to": "responsive websites of up to 10 pages",
+   "key": 0
+  },
+  {
+   "relation": "built_on",
+   "chunk_id": "services.txt#4",
+   "source": "services.txt",
+   "from": "web design",
+   "to": "wordpress or webflow",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "services.txt#4",
+   "source": "services.txt",
+   "from": "web design",
+   "to": "wireframes",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "services.txt#4",
+   "source": "services.txt",
+   "from": "web design",
+   "to": "two design revisions",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "services.txt#4",
+   "source": "services.txt",
+   "from": "web design",
+   "to": "mobile optimization",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "services.txt#4",
+   "source": "services.txt",
+   "from": "web design",
+   "to": "basic on-page seo setup",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "services.txt#4",
+   "source": "services.txt",
+   "from": "web design",
+   "to": "30 days of free support after launch",
+   "key": 0
+  },
+  {
+   "relation": "requires",
+   "chunk_id": "services.txt#4",
+   "source": "services.txt",
+   "from": "web design",
+   "to": "6 to 8 weeks",
+   "key": 0
+  },
+  {
+   "relation": "has_contract_length",
+   "chunk_id": "faq.txt#2",
+   "source": "faq.txt",
+   "from": "growth audit",
+   "to": "no ongoing contract",
+   "key": 0
+  },
+  {
+   "relation": "is",
+   "chunk_id": "pricing.txt#3",
+   "source": "pricing.txt",
+   "from": "growth audit",
+   "to": "one-time service",
+   "key": 0
+  },
+  {
+   "relation": "is_a",
+   "chunk_id": "pricing.txt#4",
+   "source": "pricing.txt",
+   "from": "growth audit",
+   "to": "one-time service",
+   "key": 1
+  },
+  {
+   "relation": "costs",
+   "chunk_id": "pricing.txt#4",
+   "source": "pricing.txt",
+   "from": "growth audit",
+   "to": "$950, one-time",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "pricing.txt#4",
+   "source": "pricing.txt",
+   "from": "growth audit",
+   "to": "written review of current marketing",
+   "key": 0
+  },
+  {
+   "relation": "delivered_within",
+   "chunk_id": "pricing.txt#4",
+   "source": "pricing.txt",
+   "from": "growth audit",
+   "to": "10 business days",
+   "key": 0
+  },
+  {
+   "relation": "is_not",
+   "chunk_id": "pricing.txt#4",
+   "source": "pricing.txt",
+   "from": "growth audit",
+   "to": "subscription",
+   "key": 0
+  },
+  {
+   "relation": "requires",
+   "chunk_id": "faq.txt#3",
+   "source": "faq.txt",
+   "from": "cancellation before minimum term",
+   "to": "payment of remaining months at 50% of monthly fee",
+   "key": 0
+  },
+  {
+   "relation": "requires",
+   "chunk_id": "faq.txt#3",
+   "source": "faq.txt",
+   "from": "month-to-month services",
+   "to": "14 days notice",
+   "key": 0
+  },
+  {
+   "relation": "owns",
+   "chunk_id": "faq.txt#3",
+   "source": "faq.txt",
+   "from": "client",
+   "to": "logos, designs, website files, and written content",
+   "key": 0
+  },
+  {
+   "relation": "owns",
+   "chunk_id": "faq.txt#4",
+   "source": "faq.txt",
+   "from": "client",
+   "to": "logos, designs, website files, and written content",
+   "key": 1
+  },
+  {
+   "relation": "requires",
+   "chunk_id": "faq.txt#3",
+   "source": "faq.txt",
+   "from": "client ownership",
+   "to": "final invoice paid",
+   "key": 0
+  },
+  {
+   "relation": "requires",
+   "chunk_id": "faq.txt#4",
+   "source": "faq.txt",
+   "from": "pause package",
+   "to": "completed minimum term",
+   "key": 0
+  },
+  {
+   "relation": "allows",
+   "chunk_id": "faq.txt#4",
+   "source": "faq.txt",
+   "from": "pause package",
+   "to": "once per year for up to 2 months",
+   "key": 0
+  },
+  {
+   "relation": "costs",
+   "chunk_id": "faq.txt#4",
+   "source": "faq.txt",
+   "from": "pause package",
+   "to": "$0",
+   "key": 0
+  },
+  {
+   "relation": "stops",
+   "chunk_id": "faq.txt#4",
+   "source": "faq.txt",
+   "from": "pause package",
+   "to": "social media posting and seo work",
+   "key": 0
+  },
+  {
+   "relation": "held_via",
+   "chunk_id": "faq.txt#4",
+   "source": "faq.txt",
+   "from": "meetings",
+   "to": "video call and in-person",
+   "key": 0
+  },
+  {
+   "relation": "requires",
+   "chunk_id": "faq.txt#6",
+   "source": "faq.txt",
+   "from": "refund",
+   "to": "30 days",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "pricing.txt#2",
+   "source": "pricing.txt",
+   "from": "basic seo",
+   "to": "keyword research for up to 15 keywords",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "pricing.txt#2",
+   "source": "pricing.txt",
+   "from": "basic seo",
+   "to": "on-page optimization of up to 8 pages",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "pricing.txt#2",
+   "source": "pricing.txt",
+   "from": "one-time brand refresh",
+   "to": "updated logo files",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "pricing.txt#2",
+   "source": "pricing.txt",
+   "from": "one-time brand refresh",
+   "to": "color palette",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "pricing.txt#3",
+   "source": "pricing.txt",
+   "from": "one new website",
+   "to": "up to 10 pages",
+   "key": 0
+  },
+  {
+   "relation": "requires",
+   "chunk_id": "pricing.txt#3",
+   "source": "pricing.txt",
+   "from": "one new website",
+   "to": "first three months",
+   "key": 0
+  },
+  {
+   "relation": "costs",
+   "chunk_id": "pricing.txt#4",
+   "source": "pricing.txt",
+   "from": "standalone social media management",
+   "to": "$950 per month",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "pricing.txt#4",
+   "source": "pricing.txt",
+   "from": "standalone social media management",
+   "to": "all three platforms",
+   "key": 0
+  },
+  {
+   "relation": "costs",
+   "chunk_id": "pricing.txt#4",
+   "source": "pricing.txt",
+   "from": "standalone branding project",
+   "to": "$4,200, one-time",
+   "key": 0
+  },
+  {
+   "relation": "costs",
+   "chunk_id": "pricing.txt#5",
+   "source": "pricing.txt",
+   "from": "standalone branding project",
+   "to": "$4,200 one-time fee",
+   "key": 0
+  },
+  {
+   "relation": "costs",
+   "chunk_id": "pricing.txt#5",
+   "source": "pricing.txt",
+   "from": "standalone web design project",
+   "to": "$5,500 one-time fee",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "pricing.txt#5",
+   "source": "pricing.txt",
+   "from": "standalone web design project",
+   "to": "up to 10 pages",
+   "key": 0
+  },
+  {
+   "relation": "requires",
+   "chunk_id": "pricing.txt#5",
+   "source": "pricing.txt",
+   "from": "standalone web design project",
+   "to": "50% upfront payment",
+   "key": 0
+  },
+  {
+   "relation": "requires",
+   "chunk_id": "pricing.txt#5",
+   "source": "pricing.txt",
+   "from": "standalone web design project",
+   "to": "50% payment on launch",
+   "key": 0
+  },
+  {
+   "relation": "costs",
+   "chunk_id": "pricing.txt#5",
+   "source": "pricing.txt",
+   "from": "extra social media posts",
+   "to": "$40 per post",
+   "key": 0
+  },
+  {
+   "relation": "receive",
+   "chunk_id": "pricing.txt#5",
+   "source": "pricing.txt",
+   "from": "nonprofit organizations",
+   "to": "15% discount on monthly package",
+   "key": 0
+  },
+  {
+   "relation": "gives",
+   "chunk_id": "pricing.txt#5",
+   "source": "pricing.txt",
+   "from": "annual payment",
+   "to": "10% discount",
+   "key": 0
+  },
+  {
+   "relation": "costs",
+   "chunk_id": "pricing.txt#6",
+   "source": "pricing.txt",
+   "from": "credit card payments",
+   "to": "3% processing fee",
+   "key": 0
+  },
+  {
+   "relation": "sent_on",
+   "chunk_id": "pricing.txt#6",
+   "source": "pricing.txt",
+   "from": "invoices",
+   "to": "1st of each month",
+   "key": 0
+  },
+  {
+   "relation": "due_within",
+   "chunk_id": "pricing.txt#6",
+   "source": "pricing.txt",
+   "from": "invoices",
+   "to": "14 days",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "services.txt#2",
+   "source": "services.txt",
+   "from": "seo package",
+   "to": "page optimization of up to 15 pages",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "services.txt#2",
+   "source": "services.txt",
+   "from": "seo package",
+   "to": "monthly backlink outreach",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "services.txt#2",
+   "source": "services.txt",
+   "from": "seo package",
+   "to": "5 new quality links per month",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "services.txt#2",
+   "source": "services.txt",
+   "from": "seo package",
+   "to": "monthly ranking report",
+   "key": 0
+  },
+  {
+   "relation": "requires",
+   "chunk_id": "services.txt#2",
+   "source": "services.txt",
+   "from": "seo results",
+   "to": "3 to 6 months",
+   "key": 0
+  },
+  {
+   "relation": "has_role",
+   "chunk_id": "services.txt#2",
+   "source": "services.txt",
+   "from": "priya nair",
+   "to": "seo lead",
+   "key": 0
+  },
+  {
+   "relation": "has_role",
+   "chunk_id": "team.txt#2",
+   "source": "team.txt",
+   "from": "priya nair",
+   "to": "seo lead",
+   "key": 1
+  },
+  {
+   "relation": "manages",
+   "chunk_id": "team.txt#2",
+   "source": "team.txt",
+   "from": "priya nair",
+   "to": "keyword research",
+   "key": 0
+  },
+  {
+   "relation": "manages",
+   "chunk_id": "team.txt#2",
+   "source": "team.txt",
+   "from": "priya nair",
+   "to": "technical audit",
+   "key": 0
+  },
+  {
+   "relation": "manages",
+   "chunk_id": "team.txt#2",
+   "source": "team.txt",
+   "from": "priya nair",
+   "to": "monthly seo ranking reports",
+   "key": 0
+  },
+  {
+   "relation": "has_specialty",
+   "chunk_id": "team.txt#2",
+   "source": "team.txt",
+   "from": "priya nair",
+   "to": "technical seo",
+   "key": 0
+  },
+  {
+   "relation": "has_role",
+   "chunk_id": "team.txt#5",
+   "source": "team.txt",
+   "from": "priya nair",
+   "to": "seo",
+   "key": 0
+  },
+  {
+   "relation": "builds",
+   "chunk_id": "services.txt#2",
+   "source": "services.txt",
+   "from": "branding service",
+   "to": "complete visual identity",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "services.txt#2",
+   "source": "services.txt",
+   "from": "branding service",
+   "to": "logo design",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "services.txt#2",
+   "source": "services.txt",
+   "from": "branding service",
+   "to": "color palette",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "services.txt#2",
+   "source": "services.txt",
+   "from": "branding service",
+   "to": "typography selection",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "services.txt#2",
+   "source": "services.txt",
+   "from": "branding service",
+   "to": "brand voice guide",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "services.txt#2",
+   "source": "services.txt",
+   "from": "branding service",
+   "to": "20-page brand guidelines pdf",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "services.txt#2",
+   "source": "services.txt",
+   "from": "logo design",
+   "to": "three initial concepts",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "services.txt#2",
+   "source": "services.txt",
+   "from": "logo design",
+   "to": "two rounds of revisions",
+   "key": 0
+  },
+  {
+   "relation": "requires",
+   "chunk_id": "services.txt#2",
+   "source": "services.txt",
+   "from": "standard branding project",
+   "to": "4 to 6 weeks",
+   "key": 0
+  },
+  {
+   "relation": "takes",
+   "chunk_id": "services.txt#3",
+   "source": "services.txt",
+   "from": "standard branding project",
+   "to": "4 to 6 weeks",
+   "key": 1
+  },
+  {
+   "relation": "has_role",
+   "chunk_id": "services.txt#3",
+   "source": "services.txt",
+   "from": "marcus webb",
+   "to": "brand strategist",
+   "key": 0
+  },
+  {
+   "relation": "has_role",
+   "chunk_id": "team.txt#1",
+   "source": "team.txt",
+   "from": "marcus webb",
+   "to": "brand strategist",
+   "key": 1
+  },
+  {
+   "relation": "has_role",
+   "chunk_id": "team.txt#2",
+   "source": "team.txt",
+   "from": "marcus webb",
+   "to": "brand strategist",
+   "key": 2
+  },
+  {
+   "relation": "has_role",
+   "chunk_id": "team.txt#5",
+   "source": "team.txt",
+   "from": "marcus webb",
+   "to": "brand strategist",
+   "key": 3
+  },
+  {
+   "relation": "leads",
+   "chunk_id": "team.txt#1",
+   "source": "team.txt",
+   "from": "marcus webb",
+   "to": "branding projects",
+   "key": 0
+  },
+  {
+   "relation": "leads",
+   "chunk_id": "team.txt#2",
+   "source": "team.txt",
+   "from": "marcus webb",
+   "to": "branding projects",
+   "key": 1
+  },
+  {
+   "relation": "has_experience",
+   "chunk_id": "team.txt#2",
+   "source": "team.txt",
+   "from": "marcus webb",
+   "to": "10 years",
+   "key": 0
+  },
+  {
+   "relation": "has_role",
+   "chunk_id": "team.txt#5",
+   "source": "team.txt",
+   "from": "marcus webb",
+   "to": "branding",
+   "key": 0
+  },
+  {
+   "relation": "works_on",
+   "chunk_id": "team.txt#5",
+   "source": "team.txt",
+   "from": "marcus webb",
+   "to": "visual design",
+   "key": 0
+  },
+  {
+   "relation": "handles",
+   "chunk_id": "team.txt#5",
+   "source": "team.txt",
+   "from": "marcus webb",
+   "to": "brand identity",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "services.txt#4",
+   "source": "services.txt",
+   "from": "community management",
+   "to": "replying to comments and messages within one business day",
+   "key": 0
+  },
+  {
+   "relation": "includes",
+   "chunk_id": "services.txt#4",
+   "source": "services.txt",
+   "from": "community management",
+   "to": "monthly analytics summary",
+   "key": 0
+  },
+  {
+   "relation": "has_role",
+   "chunk_id": "services.txt#4",
+   "source": "services.txt",
+   "from": "elena rossi",
+   "to": "social media manager",
+   "key": 0
+  },
+  {
+   "relation": "has_role",
+   "chunk_id": "team.txt#3",
+   "source": "team.txt",
+   "from": "elena rossi",
+   "to": "social media manager",
+   "key": 1
+  },
+  {
+   "relation": "works_on",
+   "chunk_id": "team.txt#3",
+   "source": "team.txt",
+   "from": "elena rossi",
+   "to": "instagram",
+   "key": 0
+  },
+  {
+   "relation": "works_on",
+   "chunk_id": "team.txt#3",
+   "source": "team.txt",
+   "from": "elena rossi",
+   "to": "facebook",
+   "key": 0
+  },
+  {
+   "relation": "works_on",
+   "chunk_id": "team.txt#3",
+   "source": "team.txt",
+   "from": "elena rossi",
+   "to": "linkedin",
+   "key": 0
+  },
+  {
+   "relation": "works_on",
+   "chunk_id": "team.txt#3",
+   "source": "team.txt",
+   "from": "elena rossi",
+   "to": "community management",
+   "key": 0
+  },
+  {
+   "relation": "has_background",
+   "chunk_id": "team.txt#3",
+   "source": "team.txt",
+   "from": "elena rossi",
+   "to": "journalism",
+   "key": 0
+  },
+  {
+   "relation": "works_on",
+   "chunk_id": "team.txt#3",
+   "source": "team.txt",
+   "from": "elena rossi",
+   "to": "content calendars",
+   "key": 0
+  },
+  {
+   "relation": "works_on",
+   "chunk_id": "team.txt#3",
+   "source": "team.txt",
+   "from": "elena rossi",
+   "to": "short-form video captions",
+   "key": 0
+  },
+  {
+   "relation": "has_role",
+   "chunk_id": "team.txt#5",
+   "source": "team.txt",
+   "from": "elena rossi",
+   "to": "social media",
+   "key": 0
+  },
+  {
+   "relation": "requires",
+   "chunk_id": "services.txt#5",
+   "source": "services.txt",
+   "from": "website",
+   "to": "6 to 8 weeks",
+   "key": 0
+  },
+  {
+   "relation": "has_role",
+   "chunk_id": "services.txt#5",
+   "source": "services.txt",
+   "from": "daniel okafor",
+   "to": "lead web designer",
+   "key": 0
+  },
+  {
+   "relation": "has_role",
+   "chunk_id": "team.txt#3",
+   "source": "team.txt",
+   "from": "daniel okafor",
+   "to": "lead web designer",
+   "key": 1
+  },
+  {
+   "relation": "has_role",
+   "chunk_id": "team.txt#4",
+   "source": "team.txt",
+   "from": "daniel okafor",
+   "to": "lead web designer",
+   "key": 2
+  },
+  {
+   "relation": "works_on",
+   "chunk_id": "team.txt#3",
+   "source": "team.txt",
+   "from": "daniel okafor",
+   "to": "client websites",
+   "key": 0
+  },
+  {
+   "relation": "works_on",
+   "chunk_id": "team.txt#4",
+   "source": "team.txt",
+   "from": "daniel okafor",
+   "to": "client websites",
+   "key": 1
+  },
+  {
+   "relation": "works_on",
+   "chunk_id": "team.txt#4",
+   "source": "team.txt",
+   "from": "daniel okafor",
+   "to": "wordpress",
+   "key": 0
+  },
+  {
+   "relation": "works_on",
+   "chunk_id": "team.txt#4",
+   "source": "team.txt",
+   "from": "daniel okafor",
+   "to": "webflow",
+   "key": 0
+  },
+  {
+   "relation": "specializes_in",
+   "chunk_id": "team.txt#4",
+   "source": "team.txt",
+   "from": "daniel okafor",
+   "to": "responsive design",
+   "key": 0
+  },
+  {
+   "relation": "specializes_in",
+   "chunk_id": "team.txt#4",
+   "source": "team.txt",
+   "from": "daniel okafor",
+   "to": "website speed optimization",
+   "key": 0
+  },
+  {
+   "relation": "has_role",
+   "chunk_id": "team.txt#5",
+   "source": "team.txt",
+   "from": "daniel okafor",
+   "to": "website",
+   "key": 0
+  },
+  {
+   "relation": "has_role",
+   "chunk_id": "team.txt#5",
+   "source": "team.txt",
+   "from": "daniel okafor",
+   "to": "web design",
+   "key": 0
+  },
+  {
+   "relation": "works_on",
+   "chunk_id": "team.txt#5",
+   "source": "team.txt",
+   "from": "daniel okafor",
+   "to": "visual design",
+   "key": 0
+  },
+  {
+   "relation": "handles",
+   "chunk_id": "team.txt#5",
+   "source": "team.txt",
+   "from": "daniel okafor",
+   "to": "websites only",
+   "key": 0
+  },
+  {
+   "relation": "has_role",
+   "chunk_id": "team.txt#1",
+   "source": "team.txt",
+   "from": "sarah chen",
+   "to": "founder",
+   "key": 0
+  },
+  {
+   "relation": "has_role",
+   "chunk_id": "team.txt#1",
+   "source": "team.txt",
+   "from": "sarah chen",
+   "to": "creative director",
+   "key": 0
+  },
+  {
+   "relation": "founded",
+   "chunk_id": "team.txt#1",
+   "source": "team.txt",
+   "from": "sarah chen",
+   "to": "bright studio",
+   "key": 0
+  },
+  {
+   "relation": "founded_in",
+   "chunk_id": "team.txt#1",
+   "source": "team.txt",
+   "from": "sarah chen",
+   "to": "2018",
+   "key": 0
+  },
+  {
+   "relation": "worked_at",
+   "chunk_id": "team.txt#1",
+   "source": "team.txt",
+   "from": "sarah chen",
+   "to": "advertising firm in chicago",
+   "key": 0
+  },
+  {
+   "relation": "leads",
+   "chunk_id": "team.txt#1",
+   "source": "team.txt",
+   "from": "sarah chen",
+   "to": "overall strategy",
+   "key": 0
+  },
+  {
+   "relation": "reviews",
+   "chunk_id": "team.txt#1",
+   "source": "team.txt",
+   "from": "sarah chen",
+   "to": "major creative work",
+   "key": 0
+  },
+  {
+   "relation": "hosts",
+   "chunk_id": "team.txt#1",
+   "source": "team.txt",
+   "from": "sarah chen",
+   "to": "monthly strategy calls",
+   "key": 0
+  },
+  {
+   "relation": "specializes_in",
+   "chunk_id": "team.txt#1",
+   "source": "team.txt",
+   "from": "sarah chen",
+   "to": "brand strategy",
+   "key": 0
+  },
+  {
+   "relation": "specializes_in",
+   "chunk_id": "team.txt#1",
+   "source": "team.txt",
+   "from": "sarah chen",
+   "to": "client relationships",
+   "key": 0
+  },
+  {
+   "relation": "has_role",
+   "chunk_id": "team.txt#5",
+   "source": "team.txt",
+   "from": "sarah chen",
+   "to": "strategy or escalations",
+   "key": 0
+  },
+  {
+   "relation": "has_role",
+   "chunk_id": "team.txt#3",
+   "source": "team.txt",
+   "from": "priya",
+   "to": "seo specialist",
+   "key": 0
+  },
+  {
+   "relation": "works_on",
+   "chunk_id": "team.txt#3",
+   "source": "team.txt",
+   "from": "priya",
+   "to": "technical seo",
+   "key": 0
+  },
+  {
+   "relation": "works_on",
+   "chunk_id": "team.txt#3",
+   "source": "team.txt",
+   "from": "priya",
+   "to": "local search",
+   "key": 0
+  },
+  {
+   "relation": "worked_at",
+   "chunk_id": "team.txt#3",
+   "source": "team.txt",
+   "from": "priya",
+   "to": "e-commerce company",
+   "key": 0
+  }
+ ]
+}

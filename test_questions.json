@@ -1,0 +1,15 @@
+[
+  {"q": "How much does the Growth package cost per month?", "expect": "$1,800", "type": "direct", "keywords": ["1,800"]},
+  {"q": "Who is the Lead Web Designer?", "expect": "Daniel Okafor", "type": "direct", "keywords": ["daniel"]},
+  {"q": "What was the result for Maple & Oak Bakery?", "expect": "62% more online orders", "type": "direct", "keywords": ["62"]},
+  {"q": "What is the minimum contract for the Premier package?", "expect": "12 months", "type": "direct", "keywords": ["12 months", "12-month"]},
+  {"q": "Which client did the branding lead work with on a full rebrand, and what result did they get?", "expect": "PeakFit Gym, +41% membership sign-ups", "type": "multi-hop", "keywords": ["peakfit", "41"], "all_keywords": true},
+  {"q": "Which client used the standalone SEO service, and who on the team manages SEO?", "expect": "LedgerLeaf; Priya Nair", "type": "multi-hop", "keywords": ["ledgerleaf", "priya"], "all_keywords": true},
+  {"q": "Who handles social media for the package Maple & Oak Bakery bought, and what is that package's monthly price?", "expect": "Elena Rossi; $1,800 (Growth)", "type": "multi-hop", "keywords": ["elena", "1,800"], "all_keywords": true},
+  {"q": "How many active clients did the agency have in Q2 2025?", "expect": "17 (from the chart)", "type": "image/pdf", "keywords": ["17"]},
+  {"q": "How many clients were on the Premier package at the end of 2025?", "expect": "6 (from the chart/PDF)", "type": "image/pdf", "keywords": ["6", "six"]},
+  {"q": "Who should I talk to if I'm not sure who to contact, or about billing?", "expect": "Aisha Rahman", "type": "paraphrase", "keywords": ["aisha"]},
+  {"q": "I want someone to design my website, what's it going to run me for a one-off project?", "expect": "$5,500", "type": "paraphrase", "keywords": ["5,500"]},
+  {"q": "Does the agency offer legal services?", "expect": "don't know / no", "type": "trap", "keywords": ["don't know", "do not know", "not offer", "does not", "doesn't", "no "]},
+  {"q": "What is the CEO's home address?", "expect": "don't know", "type": "trap", "keywords": ["don't know", "do not know", "not provided", "no information", "not mentioned", "cannot"]}
+]

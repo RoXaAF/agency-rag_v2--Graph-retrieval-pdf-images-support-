@@ -1,0 +1,96 @@
+
+#1/13 [direct] How much does the Growth package cost per month?
+  Expected : $1,800
+  Linked   : ['growth package']  fallback=False
+  Chunks   : ['annual_report_2025.pdf#p1#1', 'case_studies.txt#1', 'case_studies.txt#4', 'faq.txt#2', 'annual_report_2025.pdf#p1#img1', 'results_chart.png#img']
+  Answer   : The Growth package costs $1,800 per month [pricing.txt].
+  Result   : PASS  cited=True  (12.2s)
+
+#2/13 [direct] Who is the Lead Web Designer?
+  Expected : Daniel Okafor
+  Linked   : []  fallback=True
+  Chunks   : ['team.txt#4', 'team.txt#5', 'team.txt#3', 'services.txt#5', 'team.txt#1', 'team.txt#2']
+  Answer   : Daniel Okafor is the Lead Web Designer [team.txt#4, team.txt#5, services.txt#5].
+  Result   : PASS  cited=True  (11.6s)
+
+#3/13 [direct] What was the result for Maple & Oak Bakery?
+  Expected : 62% more online orders
+  Linked   : ['maple & oak bakery']  fallback=False
+  Chunks   : ['case_studies.txt#1', 'case_studies.txt#4', 'case_studies.txt#5', 'case_studies.txt#2', 'annual_report_2025.pdf#p1#1', 'faq.txt#2']
+  Answer   : The results for Maple & Oak Bakery included:
+*   A 62% increase in online orders [case_studies.txt#1, case_studies.txt#4].
+*   Instagram followers grew from 1,200 to 5,400 [case_studies.txt#1, case_studies.txt#2].
+*   The bakery's Google Maps ranking for "bakery Austin" moved from position 14 to position 3 [case_studies.txt#1, case_studies.txt#2].
+  Result   : PASS  cited=True  (22.2s)
+
+#4/13 [direct] What is the minimum contract for the Premier package?
+  Expected : 12 months
+  Linked   : ['premier package']  fallback=False
+  Chunks   : ['faq.txt#2', 'pricing.txt#2', 'pricing.txt#3', 'annual_report_2025.pdf#p1#1', 'annual_report_2025.pdf#p1#img1', 'results_chart.png#img']
+  Answer   : The Premier package requires a minimum contract of 12 months [faq.txt, pricing.txt, case_studies.txt].
+  Result   : PASS  cited=True  (14.7s)
+
+#5/13 [multi-hop] Which client did the branding lead work with on a full rebrand, and what result did they get?
+  Expected : PeakFit Gym, +41% membership sign-ups
+  Linked   : ['branding']  fallback=False
+  Chunks   : ['faq.txt#2', 'team.txt#5', 'services.txt#3', 'pricing.txt#4', 'pricing.txt#3', 'team.txt#1']
+  Answer   : I do not know. The provided source chunks do not contain information regarding specific clients or the results of a full rebrand.
+  Result   : FAIL  cited=False  (13.4s)
+
+#6/13 [multi-hop] Which client used the standalone SEO service, and who on the team manages SEO?
+  Expected : LedgerLeaf; Priya Nair
+  Linked   : ['seo service']  fallback=False
+  Chunks   : ['case_studies.txt#1', 'case_studies.txt#4', 'case_studies.txt#5', 'annual_report_2025.pdf#p1#2', 'case_studies.txt#2', 'annual_report_2025.pdf#p1#1']
+  Answer   : LedgerLeaf used the standalone SEO service [case_studies.txt]. The provided information does not state who on the team manages SEO [annual_report_2025.pdf, p1].
+  Result   : FAIL  cited=True  (15.2s)
+
+#7/13 [multi-hop] Who handles social media for the package Maple & Oak Bakery bought, and what is that package's monthly price?
+  Expected : Elena Rossi; $1,800 (Growth)
+  Linked   : ['maple & oak bakery']  fallback=False
+  Chunks   : ['case_studies.txt#1', 'case_studies.txt#4', 'annual_report_2025.pdf#p1#1', 'pricing.txt#3', 'pricing.txt#4', 'case_studies.txt#5']
+  Answer   : Bright Studio handles the Instagram and Facebook content for the Growth Package, which was the package purchased by Maple & Oak Bakery [case_studies.txt#1, case_studies.txt#4]. The monthly price for the Growth Package is not provided in the source chunks [pricing.txt#3, pricing.txt#4].
+  Result   : FAIL  cited=True  (22.9s)
+
+#8/13 [image/pdf] How many active clients did the agency have in Q2 2025?
+  Expected : 17 (from the chart)
+  Linked   : ['q2 2025']  fallback=False
+  Chunks   : ['annual_report_2025.pdf#p1#img1', 'results_chart.png#img']
+  Answer   : The agency had 17 active clients in Q2 2025 [annual_report_2025.pdf, p1; results_chart.png].
+  Result   : PASS  cited=True  (12.3s)
+
+#9/13 [image/pdf] How many clients were on the Premier package at the end of 2025?
+  Expected : 6 (from the chart/PDF)
+  Linked   : ['premier package']  fallback=False
+  Chunks   : ['pricing.txt#2', 'pricing.txt#3', 'annual_report_2025.pdf#p1#1', 'annual_report_2025.pdf#p1#img1', 'results_chart.png#img', 'case_studies.txt#2']
+  Answer   : There were 6 clients on the Premier package at the end of 2025 [annual_report_2025.pdf, p1].
+  Result   : PASS  cited=True  (18.2s)
+
+#10/13 [paraphrase] Who should I talk to if I'm not sure who to contact, or about billing?
+  Expected : Aisha Rahman
+  Linked   : []  fallback=True
+  Chunks   : ['team.txt#5', 'team.txt#4', 'team.txt#2', 'team.txt#1', 'services.txt#5', 'faq.txt#6']
+  Answer   : You should contact Aisha Rahman for billing questions or if you are unsure who to talk to [team.txt#5, team.txt#4].
+  Result   : PASS  cited=True  (14.6s)
+
+#11/13 [paraphrase] I want someone to design my website, what's it going to run me for a one-off project?
+  Expected : $5,500
+  Linked   : []  fallback=True
+  Chunks   : ['faq.txt#5', 'pricing.txt#5', 'services.txt#3', 'team.txt#4', 'team.txt#5', 'faq.txt#2']
+  Answer   : A standalone web design project costs a one-time fee of $5,500 for up to 10 pages, with 50% paid upfront and 50% on launch [pricing.txt#5].
+  Result   : PASS  cited=True  (11.6s)
+
+#12/13 [trap] Does the agency offer legal services?
+  Expected : don't know / no
+  Linked   : []  fallback=True
+  Chunks   : ['services.txt#5', 'services.txt#1', 'pricing.txt#1', 'services.txt#6', 'team.txt#1', 'pricing.txt#4']
+  Answer   : No, Bright Studio does not offer legal services [services.txt#5].
+  Result   : PASS  cited=True  (8.5s)
+
+#13/13 [trap] What is the CEO's home address?
+  Expected : don't know
+  Linked   : []  fallback=True
+  Chunks   : ['faq.txt#5', 'team.txt#1', 'services.txt#5', 'faq.txt#3', 'annual_report_2025.pdf#p1#1', 'case_studies.txt#3']
+  Answer   : I do not know.
+  Result   : PASS  cited=False  (13.6s)
+
+Score: 10/13 correct | cited 12/13

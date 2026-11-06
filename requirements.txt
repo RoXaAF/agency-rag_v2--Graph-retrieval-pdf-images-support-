@@ -1,4 +1,7 @@
-sentence-transformers
-chromadb
 ollama
+networkx
+pymupdf
+rapidfuzz
 gradio
+matplotlib
+fpdf2

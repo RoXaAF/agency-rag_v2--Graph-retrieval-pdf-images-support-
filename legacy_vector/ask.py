@@ -1,5 +1,8 @@
 """RAG core: retrieve -> prompt -> Gemma via Ollama.  CLI chat: python ask.py"""
+import time
 from pathlib import Path
+
+import httpx
 
 import chromadb
 import ollama
@@ -7,7 +10,7 @@ from sentence_transformers import SentenceTransformer
 
 ROOT = Path(__file__).parent
 LLM_MODEL = "gemma4:12b"  # exact name from `ollama list`
-TOP_K = 5
+TOP_K = 7
 MAX_DISTANCE = 0.9  # cosine distance; chunks farther than this are treated as irrelevant
 HISTORY_TURNS = 3   # previous user/assistant exchanges sent to the model
 
@@ -43,17 +46,24 @@ def stream_answer(question, history=None):
     messages += [{"role": h["role"], "content": h["content"]} for h in history[-2 * HISTORY_TURNS:]]
     messages.append({"role": "user", "content": f"Context:\n{context}\n\nQuestion: {question}"})
 
-    text = ""
-    for part in ollama.chat(
-        model=LLM_MODEL,
-        messages=messages,
-        stream=True,
-        think=False,
-        keep_alive="30m",
-        options={"temperature": 0, "num_ctx": 8192},
-    ):
-        text += part["message"]["content"] or ""
-        yield text, hits
+    for attempt in range(2):  # Ollama can fail transiently on a cold load / low GPU memory
+        text = ""
+        try:
+            for part in ollama.chat(
+                model=LLM_MODEL,
+                messages=messages,
+                stream=True,
+                think=False,
+                keep_alive="30m",
+                options={"temperature": 0, "num_ctx": 4096},
+            ):
+                text += part["message"]["content"] or ""
+                yield text, hits
+            return
+        except (ollama.ResponseError, httpx.TransportError):
+            if attempt == 1:
+                raise
+            time.sleep(3)
 
 
 def ask(question, history=None):
